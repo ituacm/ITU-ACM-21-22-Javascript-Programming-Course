@@ -3,17 +3,17 @@
 ## Prerequisities
 
  - Curiosity about programming.
- - Being excited to learn Python.
+ - Being excited to learn JavaScript.
 
 ## Goal
 
-The goal of that course is both giving basic informations about Python Programming that you can improve yourself after course and prepare a base knowledge for participants about Python programming related areas of computer science. This course aims to dive deep into programming logic.
+The goal of that course is both giving basic informations about JavaScript Programming that you can improve yourself after course and prepare a base knowledge for participants about JavaScript programming related areas of computer science. This course aims to dive deep into programming logic.
   
 ## Syllabus
 
 |     #           |Content                          | Instructor                        | Time - Place
 | :----------------: | :-------------------------------: | :-----------------------------: | :-----------------------------: |
-| Week 1 |  Basics of Javascript, DOM Manipulation, OOP in Javascript| Furkan Topaloğlu| 11.11.2021 18:00|
+| Week 1 |  What is JavaScript? Variables, Scope, Hoisting, Primitive Types : Number, String, Boolean, Undefined, Null, Reference Type : Object, Loops (For in, For of, While), Functions and its types, DOM Basics and JavaScript in HTML| Furkan Topaloğlu| 11.11.2021 18:00|
 | Week 2| Asynchronous Operations, Promise, Async, Await, Fetch API, Javascript Tricky Parts | Furkan Topaloğlu| 18.11.2021 18:00|
 | Week 3 | Introduction to Frameworks, Basics of React Framework, Basic To Do| Furkan Topaloğlu|  02.12.2021 18:00|
 
@@ -25,12 +25,6 @@ The goal of that course is both giving basic informations about Python Programmi
 | Name and Surname | Social Media |
 |:--:|:--:|
 | Furkan Topaloğlu #3 | [*LinkedIn*](https://www.linkedin.com/in/ay%C5%9Fe-zeynep-suba%C5%9F%C4%B1-72133820a) |
-
-
-## Setup
-
-- Python 3.9.0 for [*Windows*](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe), [*Mac OS X*](https://www.python.org/downloads/mac-osx/), [*Linux/UNIX*](https://www.python.org/downloads/source/)
-- VS Code for [*Windows*](https://code.visualstudio.com/docs/?dv=win), [*Mac OS X*](https://code.visualstudio.com/docs/?dv=osx), [*Linux/UNIX*](https://code.visualstudio.com/docs/?dv=linux64_deb)
 
 
 <p align="center">
