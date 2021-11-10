@@ -24,7 +24,7 @@ The goal of that course is both giving basic informations about JavaScript Progr
 
 | Name and Surname | Social Media |
 |:--:|:--:|
-| Furkan Topaloğlu #3 | [*LinkedIn*](https://www.linkedin.com/in/ay%C5%9Fe-zeynep-suba%C5%9F%C4%B1-72133820a) |
+| Furkan Topaloğlu #3 | [*LinkedIn*](https://www.linkedin.com/in/furkan-topaloğlu-266a94121/) |
 
 
 <p align="center">
